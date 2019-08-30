@@ -7,4 +7,4 @@ Los datasets los hemos obtenido de las siguientes fuentes:
 
 - Dataset House Prices: https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
 
-- Dataset Google Play https://www.kaggle.com/tanetboss/how-to-get-high-rating-on-play-store/data
+- Dataset Google Play https://www.kaggle.com/lava18/google-play-store-apps
